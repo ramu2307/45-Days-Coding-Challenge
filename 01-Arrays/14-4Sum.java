@@ -26,7 +26,7 @@ class Solution {
 
 //Method - 2 : [Optimized Solution]
 
-//Time Complexity : O(N*N*) - [Accepted]
+//Time Complexity : O(N*N*N) - [Accepted]
 
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
